@@ -1,1 +1,0 @@
-const t=new Map([[1,{id:1,name:"Mainnet",dashboardUrl:"https://dashboard.radixdlt.com",instructUrl:"https://app.radixforms.com"}],[2,{id:2,name:"Stokenet",dashboardUrl:"https://stokenet-dashboard.radixdlt.com",instructUrl:"https://app-stokenet.radixforms.com"}]]);export{t as r};
